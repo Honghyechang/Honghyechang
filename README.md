@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=435&lines=Mobile+%26+Web+Developer;Passionate+about+Cross-Platform+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Mobile+%26+Web+Developer;Passionate+about+Cross-Platform+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,16 +13,29 @@
 모바일 앱과 웹 개발을 넘나들며 다양한 플랫폼에서 사용자 경험을 혁신하는 것을 목표로 합니다.
 
 ### 🎓 Academic Excellence
-- 한성대학교 모바일소프트웨어트랙 (성적: 4.45/4.5)
+- 한성대학교 모바일소프트웨어트랙 (평점: 4.45/4.5)
 - 산학공동연구회 동상 수상
 
 ## 💻 Tech Stack
 <div align="center">
-  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Frontend & Mobile**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Mobile Development**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Backend & Database**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
