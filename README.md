@@ -2,7 +2,10 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Mobile+%26+Web+Developer;Passionate+about+Cross-Platform+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<!-- 봉사활동 GIF 추가 -->
+<img src="https://private-user-images.githubusercontent.com/146941462/520349538-ab606fdb-ead5-4bc9-87fe-df128a520840.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzOTQ3NTAsIm5iZiI6MTc2NDM5NDQ1MCwicGF0aCI6Ii8xNDY5NDE0NjIvNTIwMzQ5NTM4LWFiNjA2ZmRiLWVhZDUtNGJjOS04N2ZlLWRmMTI4YTUyMDg0MC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyOVQwNTM0MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MjgwMWJkY2Y0YWVkMmI4ZDEwYzAzMGQxNzQ4YTdkYjg2M2JlZGNlNzM5YzQxZDM4MDdiNmQ0YWFlOGZkMWQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Hw99ksfdvjwCVGgGgjcGRUdNe4hbH8P9T0mH5UyHkTg" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Backend+Developer;Problem+Solver+with+Code;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
