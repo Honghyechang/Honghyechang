@@ -53,7 +53,7 @@
 
 ### 1️⃣ Spring Boot Portfolio
 <div align="center">
-  <a href="https://github.com/Honghyechang/Spring-Boot-Portfolio">
+  <a href="https://youtu.be/9Fm3FfhFaMQ">
     <img src="https://img.youtube.com/vi/9Fm3FfhFaMQ/maxresdefault.jpg" width="80%"/>
   </a>
 </div>
@@ -82,7 +82,7 @@
 
 ### 2️⃣ Store Shield
 <div align="center">
-  <a href="https://github.com/Honghyechang/Store-Shield">
+  <a href="https://youtu.be/4Jdi7Hx5ZVs">
     <img src="https://img.youtube.com/vi/4Jdi7Hx5ZVs/maxresdefault.jpg" width="80%"/>
   </a>
 </div>
