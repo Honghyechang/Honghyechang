@@ -153,10 +153,10 @@
 
 | 기술 | 사용 프로젝트 |
 |------|---------------|
-| **Java** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio), [Store Shield](https://github.com/Honghyechang/Store-Shield) |
+| **Java** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio), [Store Shield](https://github.com/Store-Shield) |
 | **Spring Boot** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) |
-| **Flutter** | [Gourmet](https://github.com/Honghyechang/Gourmet) |
-| **MySQL** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio), [Store Shield](https://github.com/Honghyechang/Store-Shield) |
+| **Flutter** | [Gourmet](https://github.com/Gourmet) , [Store Shield App](https://github.com/Store-Shield/StoreShield-app)|
+| **MySQL** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio), [Store Shield](https://github.com/Store-Shield) |
 
 ---
 
@@ -183,7 +183,6 @@
 | **Flask** | [AI Interview Coach](https://github.com/AI-Interview-Coach), [Store Shield](https://github.com/Store-Shield) |
 | **React** | [ReLife](https://github.com/ReLife) |
 | **Firebase** | [Gourmet](https://github.com/Gourmet) (Firestore, Authentication, Storage) |
-| **Flutter** | [Gourmet](https://github.com/Gourmet) , [Store Shield App](https://github.com/Store-Shield/StoreShield-app)|
 | **Swift** | [N-Taxi](https://github.com/Honghyechang/NTAXI_IOS) |
 | **Android (Java)** | [Store Shield CCTV](https://github.com/Store-Shield/yolo-nas-app) |
 | **Docker** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) |
