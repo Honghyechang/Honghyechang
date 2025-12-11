@@ -180,11 +180,12 @@
 
 | 기술 | 사용 프로젝트 |
 |------|---------------|
-| **Flask** | [AI Interview Coach](https://github.com/AI-Interview-Coach), [Store Shield](https://github.com/Honghyechang/Store-Shield) |
-| **React** | [ReLife](https://github.com/Honghyechang/ReLife) |
-| **Firebase** | [Gourmet](https://github.com/Honghyechang/Gourmet) (Firestore, Authentication, Storage) |
+| **Flask** | [AI Interview Coach](https://github.com/AI-Interview-Coach), [Store Shield](https://github.com/Store-Shield) |
+| **React** | [ReLife](https://github.com/ReLife) |
+| **Firebase** | [Gourmet](https://github.com/Gourmet) (Firestore, Authentication, Storage) |
+| **Flutter** | [Gourmet](https://github.com/Gourmet) , [Store Shield App](https://github.com/Store-Shield/StoreShield-app)|
 | **Swift** | [N-Taxi](https://github.com/Honghyechang/NTAXI_IOS) |
-| **Android (Java)** | [Store Shield CCTV](https://github.com/Honghyechang/Store-Shield) |
+| **Android (Java)** | [Store Shield CCTV](https://github.com/Store-Shield/yolo-nas-app) |
 | **Docker** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) |
 | **AWS** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) (Elastic Beanstalk) |
 | **CI/CD** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) (GitHub Actions) |
@@ -201,7 +202,7 @@
 - 👥 4인 팀 프로젝트
 - 🛠️ React, Web Speech API, FullCalendar, Google Maps API
 
-**[📖 상세보기](https://github.com/Honghyechang/ReLife)** | **[🎬 시연 영상](https://youtu.be/rhYzZlGEvUg)**
+**[📖 상세보기](https://github.com/ReLife)** | **[🎬 시연 영상](https://youtu.be/rhYzZlGEvUg)**
 
 ---
 
@@ -212,7 +213,7 @@
 - 👥 4인 팀 프로젝트
 - 🛠️ Flutter, Firebase (Authentication, Firestore, Storage)
 
-**[📖 상세보기](https://github.com/Honghyechang/Gourmet)** | **[🎬 시연 영상](https://www.youtube.com/watch?v=uawsgHIxjP8)**
+**[📖 상세보기](https://github.com/Gourmet)** | **[🎬 시연 영상](https://www.youtube.com/watch?v=uawsgHIxjP8)**
 
 ---
 
