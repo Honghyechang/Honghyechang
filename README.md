@@ -181,7 +181,7 @@
 | 기술 | 사용 프로젝트 |
 |------|---------------|
 | **Flask** | [AI Interview Coach](https://github.com/AI-Interview-Coach), [Store Shield](https://github.com/Store-Shield) |
-| **React** | [ReLife](https://github.com/ReLife) |
+| **React** | [ReLife](https://github.com/WebFramework-Remaster) |
 | **Firebase** | [Gourmet](https://github.com/Gourmet-HSU) (Firestore, Authentication, Storage) |
 | **Swift** | [N-Taxi](https://github.com/Honghyechang/NTAXI_IOS) |
 | **Android (Java)** | [Store Shield CCTV](https://github.com/Store-Shield/yolo-nas-app) |
@@ -201,7 +201,7 @@
 - 👥 4인 팀 프로젝트
 - 🛠️ React, Web Speech API, FullCalendar, Google Maps API
 
-**[📖 상세보기](https://github.com/ReLife)** | **[🎬 시연 영상](https://youtu.be/rhYzZlGEvUg)**
+**[📖 상세보기](https://github.com/WebFramework-Remaster)** | **[🎬 시연 영상](https://youtu.be/rhYzZlGEvUg)**
 
 ---
 
