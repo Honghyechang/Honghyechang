@@ -155,7 +155,7 @@
 |------|---------------|
 | **Java** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio), [Store Shield](https://github.com/Store-Shield) |
 | **Spring Boot** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) |
-| **Flutter** | [Gourmet](https://github.com/Gourmet) , [Store Shield App](https://github.com/Store-Shield/StoreShield-app)|
+| **Flutter** | [Gourmet](https://github.com/Gourmet-HSU) , [Store Shield App](https://github.com/Store-Shield/StoreShield-app)|
 | **MySQL** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio), [Store Shield](https://github.com/Store-Shield) |
 
 ---
@@ -182,7 +182,7 @@
 |------|---------------|
 | **Flask** | [AI Interview Coach](https://github.com/AI-Interview-Coach), [Store Shield](https://github.com/Store-Shield) |
 | **React** | [ReLife](https://github.com/ReLife) |
-| **Firebase** | [Gourmet](https://github.com/Gourmet) (Firestore, Authentication, Storage) |
+| **Firebase** | [Gourmet](https://github.com/Gourmet-HSU) (Firestore, Authentication, Storage) |
 | **Swift** | [N-Taxi](https://github.com/Honghyechang/NTAXI_IOS) |
 | **Android (Java)** | [Store Shield CCTV](https://github.com/Store-Shield/yolo-nas-app) |
 | **Docker** | [Spring Boot Portfolio](https://github.com/Honghyechang/Spring-Boot-Portfolio) |
@@ -212,7 +212,7 @@
 - 👥 4인 팀 프로젝트
 - 🛠️ Flutter, Firebase (Authentication, Firestore, Storage)
 
-**[📖 상세보기](https://github.com/Gourmet)** | **[🎬 시연 영상](https://www.youtube.com/watch?v=uawsgHIxjP8)**
+**[📖 상세보기](https://github.com/Gourmet-HSU)** | **[🎬 시연 영상](https://www.youtube.com/watch?v=uawsgHIxjP8)**
 
 ---
 
