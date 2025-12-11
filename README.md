@@ -106,7 +106,7 @@
 - 🎯 **온디바이스 AI**: 엣지 디바이스에서 AI 모델 실행으로 응답속도 향상
 - 📊 **통합 관리 대시보드**: 재고 관리, 매출 분석, CCTV 모니터링 통합
 
-**[📖 상세보기](https://github.com/Honghyechang/Store-Shield)** | **[🎬 시연 영상](https://youtu.be/4Jdi7Hx5ZVs)**
+**[📖 상세보기](https://github.com/Store-Shield)** | **[🎬 시연 영상](https://youtu.be/4Jdi7Hx5ZVs)**
 
 ---
 
