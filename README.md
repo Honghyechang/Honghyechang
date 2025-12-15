@@ -260,6 +260,6 @@
 [![Email](https://img.shields.io/badge/Email-ghddmsccjf@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghddmsccjf@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Honghyechang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Honghyechang)
 
-**질문 한느 것을 부끄러워하지 않고, 계속해서 앞으로 나아가는 개발자가 되겠습니다** 
+**질문 하는 것을 부끄러워하지 않고, 계속해서 앞으로 나아가는 개발자가 되겠습니다** 
 
 </div>
